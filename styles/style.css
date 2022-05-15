@@ -1,12 +1,15 @@
 .contn {
-    position: relative;
-
-    height: 70%;
-    width: 70%;
+    position: fixed;
+    height: 88vh;
+    width: 100%;
     position: absolute;
-    left: 300px;
 }
-
+.titulo {
+    height: 100px;
+    text-align: center;
+    font-size: 4em;
+    font-weight: bold;
+}
 .bab,
 .linkecCon,
 #descriptionOver {
